@@ -15,4 +15,16 @@
     <string name="lung_question12">평소 담배를 피웁니까?</string>
     <string name="lung_result_text">진단결과</string>
     <string name="lung_result_answer">목감기가 의심됩니다.</string>
+    <string name="title_activity_google">Google</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="interstitial_ad_sample">Interstitial Ad Sample</string>
+    <string name="start_level">Level 1</string>
+    <string name="next_level">Next Level</string>
+    <!-- -
+        This is an ad unit ID for an interstitial test ad. Replace with your own interstitial ad unit id.
+        For more information, see https://support.google.com/admob/answer/3052638
+    <!- -->
+    <string name="interstitial_ad_unit_id">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="title_activity_map">Map</string>
 </resources>
