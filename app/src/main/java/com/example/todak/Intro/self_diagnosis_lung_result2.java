@@ -6,11 +6,11 @@ import android.os.Bundle;
 
 import com.example.todak.R;
 
-public class self_diagnosis_lung extends AppCompatActivity {
+public class self_diagnosis_lung_result2 extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_self_diagnosis_lung);
+        setContentView(R.layout.activity_self_diagnosis_lung_result2);
     }
 }
